@@ -1,0 +1,24 @@
+Mohammed Rahees - Resume
+
+Computer Science Engineering Student
+MES College of Engineering, Kuttippuram
+
+Contact:
+Phone: +91 9747751374
+Email: tech13246@gmail.com
+Location: Pattambi, Palakkad, Kerala
+
+Education:
+- BTech in Computer Science Engineering (2023 - Present)
+  MES College of Engineering, KTU University
+- Computer Science - HSS (2021 - 2023)
+  GHSS Pattambi, Kerala State Board
+
+Experience:
+- Hackathon Participant - Aventron 24-Hour Hackathon (Feb 2025)
+- NSS Volunteer - National Service Scheme (2024 - Present)
+
+Skills:
+Technical: HTML, CSS, JavaScript, Web Development, Front-end Development
+Soft Skills: Problem Solving, Strategic Planning, Creative Thinking, Leadership
+Languages: English (Fluent), Malayalam (Native)
