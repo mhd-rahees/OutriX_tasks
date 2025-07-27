@@ -2,7 +2,8 @@
 
 This is my personal website hosted using **AWS S3 Static Website Hosting**.
 
-🌐 [Live Demo]([https://rahees-s3-site-2025.s3-website.ap-south-1.amazonaws.com])
+🌐 [Live Demo]
+https://rahees-s3-site-2025.s3-website.ap-south-1.amazonaws.com
 
 ## Deployment Steps
 
